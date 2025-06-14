@@ -1,0 +1,32 @@
+{
+    "idriss": {
+        "password": "12341234",
+        "email": "idrissdfk@gmail.com",
+        "created_at": "2025-04-21 12:52:10.651653"
+    },
+    "othmane": {
+        "password": "12341234",
+        "email": "elkaws@gmail.com",
+        "created_at": "2025-04-21 12:54:37.943047"
+    },
+    "morsli": {
+        "password": "12341234",
+        "email": "morsli@gmail.com",
+        "created_at": "2025-04-21 15:20:43.061993"
+    },
+    "ftitim": {
+        "password": "12344321",
+        "email": "",
+        "created_at": "2025-04-30 09:41:32.921100"
+    },
+    "zeb": {
+        "password": "zobizobi",
+        "email": "",
+        "created_at": "2025-05-01 13:34:27.367141"
+    },
+    "allo": {
+        "password": "allo",
+        "email": "",
+        "created_at": "2025-05-06 15:11:47.834584"
+    }
+}
